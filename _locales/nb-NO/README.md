@@ -1,7 +1,7 @@
 
 > Åpne denne siden på [https://profkristoffer.github.io/robotball---sender/](https://profkristoffer.github.io/robotball---sender/)
 
-* [Start](https://makecode.microbit.org/#tutorial:github:profkristoffer/bitbot-fjernkontroll-tutorial/Tutorial)
+* [Start](https://makecode.microbit.org/#tutorial:github:profkristoffer/robotball---sender/README)
 
 
 ## Bruk som utvidelse
